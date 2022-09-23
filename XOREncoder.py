@@ -3,6 +3,7 @@
 # Created date    : 07/03/2020
 # Last update     : 08/05/2020
 # Author          : bigb0ss
+# Modder          : trhacknon
 # Description     : XOR Encoder for shellcode
 # Example         : ./XOREncoder.py -s "\x41\x42\x43" -k "0xAA"
 
@@ -22,7 +23,7 @@ def banner():
     print("   |   / / / / /_/ /  / __/ / __ \/ ___/ __ \/ __  / _ \/ ___/ ")
     print("  /   / /_/ / _, _/  / /___/ / / / /__/ /_/ / /_/ /  __/ /     ") 
     print(" /_/|_\____/_/ |_|  /_____/_/ /_/\___/\____/\__,_/\___/_/      ")
-    print("                                             [bigb0ss] v1.0    ")
+    print("                                             [trhacknon] v1.0    ")
     print(" ")
 
 def error():
