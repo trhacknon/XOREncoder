@@ -3,7 +3,7 @@ XOR Encoder for shellcode using a choice of XOR key.
 
 ## Installation
 ```bash
-git clone https://github.com/bigb0sss/XOREncoder.git
+git clone https://github.com/trhacknon/XOREncoder.git
 ```
 ## Usage & Example
 ```
